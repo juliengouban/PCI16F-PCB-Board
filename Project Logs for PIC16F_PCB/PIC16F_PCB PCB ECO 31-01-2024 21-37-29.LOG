@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=\MCLR Pin=J2-1
+Added Pin To Net: NetName=\MCLR  Pin=J2-1
+Added Pin To Net: NetName=\SS Pin=J2-2
+Added Pin To Net: NetName=\SS Pin=U1-2
+Added Net: Name=\SS
+Added Pin To Net: NetName=AN1 Pin=J2-3
+Added Pin To Net: NetName=AN1 Pin=U1-3
+Added Net: Name=AN1
+Added Pin To Net: NetName=AN2 Pin=J2-4
+Added Pin To Net: NetName=AN2 Pin=U1-4
+Added Net: Name=AN2
+Added Pin To Net: NetName=AN3/VREF Pin=J2-5
+Added Pin To Net: NetName=AN3/VREF Pin=U1-5
+Added Net: Name=AN3/VREF
+Added Pin To Net: NetName=CLKOUT/VCAP Pin=J2-10
+Added Pin To Net: NetName=CLKOUT/VCAP Pin=U1-10
+Added Net: Name=CLKOUT/VCAP
+Added Pin To Net: NetName=CPS6/T0CKI Pin=J2-6
+Added Pin To Net: NetName=CPS6/T0CKI Pin=U1-6
+Added Net: Name=CPS6/T0CKI
+Added Pin To Net: NetName=OSC1/CLKIN Pin=J2-9
+Added Pin To Net: NetName=OSC1/CLKIN Pin=U1-9
+Added Net: Name=OSC1/CLKIN
+Added Pin To Net: NetName=VCAP/AN4 Pin=J2-7
+Added Pin To Net: NetName=VCAP/AN4 Pin=U1-7
+Added Net: Name=VCAP/AN4
+Added Pin To Net: NetName=VSS Pin=J2-8
+Added Pin To Net: NetName=VSS Pin=U1-8
+Added Net: Name=VSS

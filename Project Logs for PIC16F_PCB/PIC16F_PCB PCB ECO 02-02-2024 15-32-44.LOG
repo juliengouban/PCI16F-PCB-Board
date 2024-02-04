@@ -1,0 +1,57 @@
+Added Pin To Net: NetName=\MCLR Pin=J1-3
+Added Pin To Net: NetName=\MCLR Pin=J2-1
+Added Pin To Net: NetName=VSS Pin=J3-5
+Added Pin To Net: NetName=RC0 Pin=U1-11
+Added Pin To Net: NetName=RC1 Pin=U1-12
+Added Pin To Net: NetName=RC2 Pin=U1-13
+Added Pin To Net: NetName=SCL Pin=U1-14
+Added Pin To Net: NetName=VSS Pin=U1-19
+Change Net Name : Old Net Name=AN3/VREF New Net Name=VREF
+Change Net Name : Old Net Name=CLKOUT/VCAP New Net Name=CLKOUT
+Change Net Name : Old Net Name=CPS6/T0CKI New Net Name=T0CKI
+Change Net Name : Old Net Name=OSC1/CLKIN New Net Name=CLKIN
+Change Net Name : Old Net Name=VCAP/AN4 New Net Name=VCAP
+Added Pin To Net: NetName=RB0 Pin=J3-7
+Added Pin To Net: NetName=RB0 Pin=U1-21
+Added Net: Name=RB0
+Added Pin To Net: NetName=RB1 Pin=J3-8
+Added Pin To Net: NetName=RB1 Pin=U1-22
+Added Net: Name=RB1
+Added Pin To Net: NetName=RB2 Pin=J3-9
+Added Pin To Net: NetName=RB2 Pin=U1-23
+Added Net: Name=RB2
+Added Pin To Net: NetName=RB3 Pin=J3-10
+Added Pin To Net: NetName=RB3 Pin=U1-24
+Added Net: Name=RB3
+Added Pin To Net: NetName=RB4 Pin=J3-11
+Added Pin To Net: NetName=RB4 Pin=U1-25
+Added Net: Name=RB4
+Added Pin To Net: NetName=RB5 Pin=J3-12
+Added Pin To Net: NetName=RB5 Pin=U1-26
+Added Net: Name=RB5
+Added Pin To Net: NetName=RB6 Pin=J1-4
+Added Pin To Net: NetName=RB6 Pin=J3-13
+Added Pin To Net: NetName=RB6 Pin=U1-27
+Added Net: Name=RB6
+Added Pin To Net: NetName=RB7 Pin=J1-5
+Added Pin To Net: NetName=RB7 Pin=J3-14
+Added Pin To Net: NetName=RB7 Pin=R1-1
+Added Pin To Net: NetName=RB7 Pin=U1-28
+Added Net: Name=RB7
+Added Pin To Net: NetName=RC5 Pin=J3-2
+Added Pin To Net: NetName=RC5 Pin=U1-16
+Added Net: Name=RC5
+Added Pin To Net: NetName=RX Pin=J3-4
+Added Pin To Net: NetName=RX Pin=U1-18
+Added Net: Name=RX
+Added Pin To Net: NetName=SDA Pin=J3-1
+Added Pin To Net: NetName=SDA Pin=U1-15
+Added Net: Name=SDA
+Added Pin To Net: NetName=TX Pin=J3-3
+Added Pin To Net: NetName=TX Pin=U1-17
+Added Net: Name=TX
+Added Pin To Net: NetName=VDD Pin=J3-6
+Added Pin To Net: NetName=VDD Pin=U1-20
+Added Net: Name=VDD
+Added Member To Class: ClassName=PIC16F_Schematic Member=Component J2 PPTC141LFBN-RC
+Added Member To Class: ClassName=PIC16F_Schematic Member=Component J3 PPTC141LFBN-RC

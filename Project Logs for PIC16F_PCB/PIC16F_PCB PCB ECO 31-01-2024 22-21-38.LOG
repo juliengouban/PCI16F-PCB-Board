@@ -1,0 +1,18 @@
+Added Component: Designator=J2(Sullins_0_MFG)
+Added Component: Designator=J3(Sullins_0_MFG)
+Added Pin To Net: NetName=\MCLR  Pin=J2-1
+Added Pin To Net: NetName=\SS Pin=J2-2
+Added Pin To Net: NetName=AN1 Pin=J2-3
+Added Pin To Net: NetName=AN2 Pin=J2-4
+Added Pin To Net: NetName=AN3/VREF Pin=J2-5
+Added Pin To Net: NetName=CPS6/T0CKI Pin=J2-6
+Added Pin To Net: NetName=VCAP/AN4 Pin=J2-7
+Added Pin To Net: NetName=VSS Pin=J2-8
+Added Pin To Net: NetName=OSC1/CLKIN Pin=J2-9
+Added Pin To Net: NetName=CLKOUT/VCAP Pin=J2-10
+Added Pin To Net: NetName=RC0 Pin=J2-11
+Added Pin To Net: NetName=RC1 Pin=J2-12
+Added Pin To Net: NetName=RC2 Pin=J2-13
+Added Pin To Net: NetName=SCL Pin=J2-14
+Added Member To Class: ClassName=PIC16F_Schematic Member=Component J2 PPTC141LFBN-RC
+Added Member To Class: ClassName=PIC16F_Schematic Member=Component J3 PPTC141LFBN-RC

@@ -1,0 +1,8 @@
+Added Component: Designator=R1(Stackpole_RMCF0603_IPC_A)
+Added Component: Designator=R2(Stackpole_RMCF0603_IPC_A)
+Added Pin To Net: NetName=ICSPDAT Pin=R1-1
+Added Pin To Net: NetName=NetD1_2 Pin=R1-2
+Added Pin To Net: NetName=NetD2_2 Pin=R2-1
+Added Pin To Net: NetName=+5 Pin=R2-2
+Added Member To Class: ClassName=PIC16F_Schematic Member=Component R1 RMCF0603FT220R
+Added Member To Class: ClassName=PIC16F_Schematic Member=Component R2 RMCF0603FT220R

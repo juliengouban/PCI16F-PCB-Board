@@ -1,0 +1,22 @@
+Change Component Footprint: Designator=U1 Old Footprint=MCHP-SSOP-SS28_M New Footprint=MCHP-SSOP-SS28_M
+Added Component: Designator=D2(Lite-On_0_MFG)
+Added Component: Designator=D?(Osram_Opto_LO_Q976_MFG)
+Added Component: Designator=J1(Wurth_61300511121_0)
+Added Pin To Net: NetName=GND Pin=D2-1
+Added Pin To Net: NetName=NetD2_2 Pin=D2-2
+Added Pin To Net: NetName=GND Pin=D?-1
+Added Pin To Net: NetName=+5 Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=\MCLR  Pin=J1-3
+Added Pin To Net: NetName=ICSPCLK Pin=J1-4
+Added Pin To Net: NetName=ICSPDAT Pin=J1-5
+Add Pin To Net: Unknown Pin: Pin R1-1
+Add Pin To Net: Unknown Pin: Pin R2-1
+Add Pin To Net: Unknown Pin: Pin R2-2
+Added Pin To Net: NetName=NetD?_2 Pin=D?-2
+Added Net: Name=NetD?_2
+Added Member To Class: ClassName=PIC16F_Schematic Member=Component D2 LTST-C190GKT
+Added Member To Class: ClassName=PIC16F_Schematic Member=Component D? LO_Q976-PS-25-0-20-R18
+Added Member To Class: ClassName=PIC16F_Schematic Member=Component J1 61300511121
+Add Class Member: Failed to add class member : Component R1 Resistor
+Add Class Member: Failed to add class member : Component R2 Resistor

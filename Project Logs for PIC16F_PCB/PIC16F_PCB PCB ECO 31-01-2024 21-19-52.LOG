@@ -1,0 +1,8 @@
+Change Component Designator: OldDesignator=D? NewDesignator=D1
+Add Pin To Net: Unknown Pin: Pin R1-1
+Add Pin To Net: Unknown Pin: Pin R2-1
+Add Pin To Net: Unknown Pin: Pin R2-2
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Net: Name=NetD1_2
+Add Class Member: Failed to add class member : Component R1 RMCF0603FT220R
+Add Class Member: Failed to add class member : Component R2 RMCF0603FT220R
