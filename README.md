@@ -28,23 +28,29 @@ Finally, we added two 14-pin female connectors to connect components to the PIC1
 
 ![alt text 1](PIC16F_picture/PIC16F_schema.png) 
 
+The aim of the board was to make the design as small as possible: 23mm x 41mm. This keeps the cost of the board low: $12 at PCBWay.
+
+To program the PIC16F board, you'll need an MPLAB kit to install the program.
+
 
 
 ## PCB Design
 
-The PCB has been realized on Altium Designer. It has a dimension of 6.5 cm and a height of 5 cm.  The board's top layer contains most of the components. 
+The PCB consists of two layers, Top Layer and Bottom Layer. We have a male connector at the top of the board for programming.
+
+We use the GND, RB6 and MCLR pins connected to the MPLAB kit. We've added +5V to easily power the board once programmed.
+
+We've also added two female connectors on either side of the PIC16F to easily connect components to it.
 
 Here's the top layer view of the PCB:
 
-![alt text 1](atmega328P_picture/ard1.png) 
+![alt text 1](PIC16F_picture/pic16F_design.png) 
 
-Here's the bottom layer view of the PCB:
 
-![alt text 1](atmega328P_picture/ard2.png) 
 
 Here is a 3d view of the PCB:
 
-![alt text 1](atmega328P_picture/ard3.png) 
+![alt text 1](PIC16F_picture/pic16F_design2.png) 
 
 
 ## Arduino Factory
