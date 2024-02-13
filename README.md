@@ -4,6 +4,7 @@
 
 This PCB is based on Microchip's PIC16F microcontroller. The PIC16F belongs to the PIC microcontroller family, renowned for its efficient RISC architecture and ease of programming.
 
+
 Equipped with programmable flash memory, the PIC16F enables quick and easy firmware updates, simplifying the process of developing and maintaining electronic systems.
 Its integrated EEPROM memory also offers non-volatile data storage, ensuring that crucial information is preserved even in the event of a power failure.
 The PIC16F's numerous I/O pins facilitate interfacing with various external components, while its serial communication capabilities, such as I2C and UART, facilitate integration with other peripherals.
@@ -55,7 +56,7 @@ Here is a 3d view of the PCB:
 
 ## Arduino Factory
 
- * [More details on this project](https://arduinofactory.fr/carte-pcb-atmega328p/)
+ * [More details on this project](https://arduinofactory.fr/carte-pcb-pic16f/)
   
 
 
